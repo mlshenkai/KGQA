@@ -1,0 +1,13 @@
+.idea
+$gitignore
+.git
+README.md
+project_infer.py
+project_run.py
+__pycache__/
+build
+dist
+outputs/*
+**/train
+resources
+
